@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Datafetch />
       <p> 
-        Thank you! 
+        Thank you!
       </p>
     </div>
   );
